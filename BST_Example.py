@@ -110,11 +110,8 @@ class Node:
         self.left = None
         self.right = None
 
-    # Node class remains unchanged
-
 
 def main():
-    # Main program to test insert and search methods.
     tree = BinarySearchTree()
 
     while True:
@@ -147,8 +144,6 @@ def main():
 
     # Print the tree
     print(tp.pretty_tree(tree))
-
-
 
 
 if __name__ == '__main__':
