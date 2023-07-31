@@ -1,4 +1,4 @@
-# simple example of a binary search tree in Python
+# Simple example of a binary search tree in Python
 
 import TreePrint as tp
 
